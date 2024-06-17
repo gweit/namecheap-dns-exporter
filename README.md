@@ -2,6 +2,12 @@
 
 I made a tool after i figured out i can not export whole DNS-Zones from my Namecheap Backoffice.
 
+Requirements:
+
+- Nodejs 18+
+- a Namecheap account with active API
+
+
 ## Setup
 
 Make sure to install the dependencies:
@@ -20,7 +26,7 @@ yarn install
 bun install
 ```
 
-## Development Server
+## Star local Development Server
 
 Start the development server on `http://localhost:3000`:
 
@@ -38,38 +44,7 @@ yarn dev
 bun run dev
 ```
 
-## Production
 
-Build the application for production:
+##### Todo
 
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+- add Docker Image or easier deployment
