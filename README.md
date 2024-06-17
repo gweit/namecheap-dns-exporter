@@ -1,3 +1,6 @@
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+
+
 # Namecheap DNS Exporter
 
 I made a tool after i figured out i can not export whole DNS-Zones from my Namecheap Backoffice.
