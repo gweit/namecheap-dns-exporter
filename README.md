@@ -10,6 +10,12 @@ Requirements:
 - Nodejs 18+
 - a Namecheap account with active API
 
+It´s made with Nuxt 3 and you can start it locally by cloining this repo:
+
+```bash
+git clone https://github.com/gweit/namecheap-dns-exporter.git
+```
+
 
 ## Setup
 
